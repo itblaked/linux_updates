@@ -1,0 +1,6 @@
+---
+# defaults file for linux_updates
+# When updating systems, a reboot may be required. Here you can select to:
+# "yes": Always reboot when packages have changed.
+# "no": Never reboot when packages have changed.
+update_reboot: yes

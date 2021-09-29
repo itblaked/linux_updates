@@ -1,0 +1,6 @@
+---
+# handlers file for linux_updates
+- name: reboot
+  reboot:
+  when:
+    - update_reboot | bool
