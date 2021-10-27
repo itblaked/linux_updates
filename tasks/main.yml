@@ -5,7 +5,7 @@
   assert:
     that:
       - update_reboot is defined
-    quiet: yesa
+    quiet: yes
 
 - name: update all software (dnf)
   dnf:

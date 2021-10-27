@@ -1,7 +1,7 @@
 Linux Updates
 =========
 
-Install updates on Linux
+Install updates on Linux. Depends on gather_facts being enabled in the playbook.
 
 Role Variables
 --------------
